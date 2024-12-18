@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "记录"
-  text: "前端知识记录"
-  tagline: My great project tagline
+  text: ""
+  tagline: 
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,8 +15,9 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 软考笔记
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /soft-exam/软考笔记
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
