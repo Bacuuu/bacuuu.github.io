@@ -11,16 +11,16 @@ export default defineConfig({
       { text: 'Examples', link: '/markdown-examples' }
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
+    sidebar: {
+      '/soft-exam': [{
+        text: '软考笔记',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '计算机系统', link: '/soft-exam/计算机系统' },
+          { text: '程序设计语言', link: '/soft-exam/程序设计语言' },
         ]
-      }
-    ],
-
+      }]
+    },
+    outline: [1, 6],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]

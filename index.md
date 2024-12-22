@@ -16,11 +16,7 @@ hero:
 
 features:
   - title: 软考笔记
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /soft-exam/软考笔记
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: 从[炸薯条](https://space.bilibili.com/91286799)学习中级软件设计师，以此作为笔记
+    link: /soft-exam/计算机系统
 ---
 
