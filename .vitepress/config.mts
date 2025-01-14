@@ -19,6 +19,7 @@ export default defineConfig({
           { text: '计算机系统', link: '/soft-exam/计算机系统' },
           { text: '程序设计语言', link: '/soft-exam/程序设计语言' },
           { text: '知识产权', link: '/soft-exam/知识产权' },
+          { text: '数据库', link: '/soft-exam/数据库' },
         ]
       }]
     },
