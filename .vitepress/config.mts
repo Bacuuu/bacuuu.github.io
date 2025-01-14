@@ -25,6 +25,9 @@ export default defineConfig({
     outline: [1, 6],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    ],
+    lastUpdated: {
+      text: '最后更新于'
+    }
   }
 })
