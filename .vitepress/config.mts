@@ -20,12 +20,16 @@ export default defineConfig({
           { text: '程序设计语言', link: '/soft-exam/程序设计语言' },
           { text: '知识产权', link: '/soft-exam/知识产权' },
           { text: '数据库', link: '/soft-exam/数据库' },
+          { text: '面向对象', link: '/soft-exam/面向对象' },
         ]
       }]
     },
-    outline: [1, 6],
+    outline: {
+      level: [1, 6],
+      label: '/* 本页目录 */'
+    },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Bacuuu' }
     ],
     lastUpdated: {
       text: '最后更新于'
