@@ -21,6 +21,7 @@ export default defineConfig({
           { text: '知识产权', link: '/soft-exam/知识产权' },
           { text: '数据库', link: '/soft-exam/数据库' },
           { text: '面向对象', link: '/soft-exam/面向对象' },
+          { text: 'UML', link: '/soft-exam/UML' },
         ]
       }]
     },
