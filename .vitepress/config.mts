@@ -22,6 +22,7 @@ export default defineConfig({
           { text: '数据库', link: '/soft-exam/数据库' },
           { text: '面向对象', link: '/soft-exam/面向对象' },
           { text: 'UML', link: '/soft-exam/UML' },
+          { text: '设计模式', link: '/soft-exam/设计模式' },
         ]
       }]
     },
