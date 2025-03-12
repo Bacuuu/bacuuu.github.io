@@ -23,6 +23,7 @@ export default defineConfig({
           { text: '面向对象', link: '/soft-exam/面向对象' },
           { text: 'UML', link: '/soft-exam/UML' },
           { text: '设计模式', link: '/soft-exam/设计模式' },
+          { text: '操作系统', link: '/soft-exam/操作系统' },
         ]
       }]
     },
