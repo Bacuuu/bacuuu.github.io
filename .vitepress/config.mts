@@ -25,6 +25,7 @@ export default defineConfig({
           { text: '设计模式', link: '/soft-exam/设计模式' },
           { text: '操作系统', link: '/soft-exam/操作系统' },
           { text: '结构化开发', link: '/soft-exam/结构化开发' },
+          { text: '软件工程', link: '/soft-exam/软件工程' },
         ]
       }]
     },
