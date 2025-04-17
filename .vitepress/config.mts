@@ -27,6 +27,7 @@ export default defineConfig({
           { text: '结构化开发', link: '/soft-exam/结构化开发' },
           { text: '软件工程', link: '/soft-exam/软件工程' },
           { text: '信息安全', link: '/soft-exam/信息安全' },
+          { text: '计算机网络', link: '/soft-exam/计算机网络' },
         ]
       }]
     },
