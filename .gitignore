@@ -1,3 +1,7 @@
 .vitepress/cache
 .vitepress/dist
 node_modules
+.idea/bacuuu.github.io.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
